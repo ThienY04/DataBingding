@@ -1,0 +1,15 @@
+C:\Users\THIEN Y\source\repos\EnityFramework_DataBinding\EnityFramework_DataBinding\bin\Debug\EnityFramework_DataBinding.exe.config
+C:\Users\THIEN Y\source\repos\EnityFramework_DataBinding\EnityFramework_DataBinding\bin\Debug\EnityFramework_DataBinding.exe
+C:\Users\THIEN Y\source\repos\EnityFramework_DataBinding\EnityFramework_DataBinding\bin\Debug\EnityFramework_DataBinding.pdb
+C:\Users\THIEN Y\source\repos\EnityFramework_DataBinding\EnityFramework_DataBinding\obj\Debug\EnityFramework_DataBinding.csproj.AssemblyReference.cache
+C:\Users\THIEN Y\source\repos\EnityFramework_DataBinding\EnityFramework_DataBinding\obj\Debug\EnityFramework_DataBinding.Form1.resources
+C:\Users\THIEN Y\source\repos\EnityFramework_DataBinding\EnityFramework_DataBinding\obj\Debug\EnityFramework_DataBinding.Properties.Resources.resources
+C:\Users\THIEN Y\source\repos\EnityFramework_DataBinding\EnityFramework_DataBinding\obj\Debug\EnityFramework_DataBinding.csproj.GenerateResource.cache
+C:\Users\THIEN Y\source\repos\EnityFramework_DataBinding\EnityFramework_DataBinding\obj\Debug\EnityFramework_DataBinding.csproj.CoreCompileInputs.cache
+C:\Users\THIEN Y\source\repos\EnityFramework_DataBinding\EnityFramework_DataBinding\obj\Debug\EnityFramework_DataBinding.exe
+C:\Users\THIEN Y\source\repos\EnityFramework_DataBinding\EnityFramework_DataBinding\obj\Debug\EnityFramework_DataBinding.pdb
+C:\Users\THIEN Y\source\repos\EnityFramework_DataBinding\EnityFramework_DataBinding\bin\Debug\EntityFramework.dll
+C:\Users\THIEN Y\source\repos\EnityFramework_DataBinding\EnityFramework_DataBinding\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\THIEN Y\source\repos\EnityFramework_DataBinding\EnityFramework_DataBinding\bin\Debug\EntityFramework.xml
+C:\Users\THIEN Y\source\repos\EnityFramework_DataBinding\EnityFramework_DataBinding\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\THIEN Y\source\repos\EnityFramework_DataBinding\EnityFramework_DataBinding\obj\Debug\EnityFra.D2E020B6.Up2Date
